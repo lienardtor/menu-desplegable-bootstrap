@@ -24,6 +24,6 @@ menu-local.css
 
 # JS
 
-Usa un js basado donde se configura el despliegue del menú:
+Usa un js donde se configura el despliegue del menú:
 
 menu-local.js
